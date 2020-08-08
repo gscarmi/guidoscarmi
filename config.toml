@@ -1,0 +1,4 @@
+baseURL = "http://guidoscarmi.it/"
+languageCode = "it-IT"
+title = "Guido Scarmi"
+theme = "ananke"
